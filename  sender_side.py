@@ -5,7 +5,7 @@
 
 
 import socket,time,subprocess,pyttsx3
-target_ip = "127.0.0.1"     
+target_ip = "127.0.0.1"     #any ip addr can be given here, ip addr to which one have to connect
 target_port = 1233
 
 #Now we are creating UDP socket -- this is  all sender & receiver both    ipv4 ,UDP
